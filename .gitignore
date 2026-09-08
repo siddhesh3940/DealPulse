@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Node
+node_modules/
+dist/
+.DS_Store
+
+# Dev server logs (created when restarting backend/frontend)
+*.log
+backend_err.log
+frontend_err.log
+
+# Local demo media & runtime artifacts
+screenshots/
+backend/deals.db

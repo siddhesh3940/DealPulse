@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+ollama
+python-multipart
+requests
+faster-whisper
