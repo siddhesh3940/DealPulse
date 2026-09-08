@@ -14,6 +14,5 @@ dist/
 backend_err.log
 frontend_err.log
 
-# Local demo media & runtime artifacts
-screenshots/
+# Runtime artifacts
 backend/deals.db
